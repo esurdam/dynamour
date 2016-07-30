@@ -1,6 +1,6 @@
 name: dynamour
-summary: "TODO: Summary"
-description: "TODO: Description"
+summary: "A thin wrapper around aws-sdk's v2 DynamoDB Client"
+description: "DynamoDB + Amour"
 license: MIT
 authors: Evan Surdam
 email: es@cosi.io
